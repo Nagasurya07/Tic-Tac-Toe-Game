@@ -3,7 +3,6 @@
 This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 
 ## Project Structure
-## Files
 
 - **index.html**: The main HTML file that contains the structure of the game.
 - **style.css**: The CSS file that styles the game.
